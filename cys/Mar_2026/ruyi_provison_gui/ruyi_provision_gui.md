@@ -4,7 +4,7 @@
 
 ### 功能特性
 
-- USB 烧录和检测功能由 [usb_detect](https://github.com/21758/usb_detect) 实现
+- USB 烧录和检测功能由 [usb_detect](https://github.com/ruyisdk-test/usb_detect) 实现
 - 自动从 [ruyisdk/packages-index](https://github.com/ruyisdk/packages-index) 获取镜像列表
 
 ### 使用流程
@@ -27,7 +27,7 @@
 
 ### 项目链接
 
-- [GitHub 仓库](https://github.com/21758/ruyi_provision_gui)
+- [GitHub 仓库](https://github.com/ruyisdk-test/ruyi_provision_gui)
 
 ### 下一步计划
 
